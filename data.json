@@ -214,6 +214,87 @@
         "Стратегический маркетинг",
         "Функционально-стоимостный анализ"
       ]
+    },
+    {
+      "id": "abs-1789767897058-0-680",
+      "studentId": "28",
+      "date": "2026-09-18",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинг услуг",
+      "comment": ""
+    },
+    {
+      "id": "abs-1789767897058-1-966",
+      "studentId": "28",
+      "date": "2026-09-18",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинговые исследования и аналитика",
+      "comment": ""
+    },
+    {
+      "id": "abs-1789767943698-0-11",
+      "studentId": "4",
+      "date": "2026-09-18",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Интегрированные маркетинговые коммуникации",
+      "comment": ""
+    },
+    {
+      "id": "abs-1789767943698-1-210",
+      "studentId": "4",
+      "date": "2026-09-18",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Интегрированные маркетинговые коммуникации",
+      "comment": ""
+    },
+    {
+      "id": "abs-1789767943698-2-302",
+      "studentId": "4",
+      "date": "2026-09-18",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Интегрированные маркетинговые коммуникации",
+      "comment": ""
+    },
+    {
+      "id": "abs-1789767943698-3-550",
+      "studentId": "4",
+      "date": "2026-09-18",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Интегрированные маркетинговые коммуникации",
+      "comment": ""
+    },
+    {
+      "id": "abs-1789768004554-0-721",
+      "studentId": "1",
+      "date": "2026-09-18",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Интегрированные маркетинговые коммуникации",
+      "comment": ""
+    },
+    {
+      "id": "abs-1789768004554-1-555",
+      "studentId": "1",
+      "date": "2026-09-18",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Интегрированные маркетинговые коммуникации",
+      "comment": ""
+    },
+    {
+      "id": "abs-1789768004554-2-431",
+      "studentId": "1",
+      "date": "2026-09-18",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Интегрированные маркетинговые коммуникации",
+      "comment": ""
     }
   ]
 }
