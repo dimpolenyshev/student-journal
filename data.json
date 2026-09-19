@@ -251,6 +251,15 @@
       "isExcused": false,
       "subject": "Функционально-стоимостный анализ",
       "comment": ""
+    },
+    {
+      "id": "abs-1789834579248-0-148",
+      "studentId": "28",
+      "date": "2026-09-15",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Интегрированные маркетинговые коммуникации",
+      "comment": ""
     }
   ]
 }
