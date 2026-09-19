@@ -244,6 +244,15 @@
       "isExcused": false,
       "subject": "Эконометрика",
       "comment": ""
+    },
+    {
+      "id": "abs-1789850327073-0-650",
+      "studentId": "st-1758300000015",
+      "date": "2026-09-03",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинг услуг",
+      "comment": ""
     }
   ]
 }
