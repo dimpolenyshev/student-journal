@@ -233,6 +233,24 @@
       "isExcused": true,
       "subject": "Стратегический маркетинг",
       "comment": ""
+    },
+    {
+      "id": "abs-1789834557008-0-925",
+      "studentId": "28",
+      "date": "2026-09-09",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Стратегический маркетинг",
+      "comment": ""
+    },
+    {
+      "id": "abs-1789834557008-1-557",
+      "studentId": "28",
+      "date": "2026-09-09",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
     }
   ]
 }
