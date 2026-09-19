@@ -271,6 +271,15 @@
       "isExcused": true,
       "subject": "Функционально-стоимостный анализ",
       "comment": "больничный"
+    },
+    {
+      "id": "abs-1789850447849-0-200",
+      "studentId": "st-1758300000024",
+      "date": "2026-09-01",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинг инноваций",
+      "comment": ""
     }
   ]
 }
