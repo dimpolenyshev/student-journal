@@ -1,4 +1,4 @@
-﻿{
+{
   "subjects": [
     "Интегрированные маркетинговые коммуникации",
     "Логистика",
@@ -10,34 +10,193 @@
     "Эконометрика"
   ],
   "students": [
-    { "id": "1", "lastName": "Ключник", "firstName": "Виктория", "status": "Платное" },
-    { "id": "2", "lastName": "Малибошко", "firstName": "Александра", "status": "Платное" },
-    { "id": "3", "lastName": "Малиновская", "firstName": "Мая", "status": "Платное" },
-    { "id": "4", "lastName": "Манкевич", "firstName": "Мария", "status": "Бюджет" },
-    { "id": "5", "lastName": "Медведева", "firstName": "Александра", "status": "Платное" },
-    { "id": "6", "lastName": "Михальченко", "firstName": "Кирилл", "status": "Бюджет" },
-    { "id": "7", "lastName": "Мозоль", "firstName": "Екатерина", "status": "Платное" },
-    { "id": "8", "lastName": "Мороз", "firstName": "Анна", "status": "Бюджет" },
-    { "id": "9", "lastName": "Мулярёнок", "firstName": "Юлия", "status": "Бюджет" },
-    { "id": "10", "lastName": "Огнянникова", "firstName": "Ксения", "status": "Платное" },
-    { "id": "11", "lastName": "Петрович", "firstName": "Арсений", "status": "Бюджет" },
-    { "id": "12", "lastName": "Петрович", "firstName": "Захар", "status": "Платное" },
-    { "id": "13", "lastName": "Позднякова", "firstName": "Валерия", "status": "Платное" },
-    { "id": "14", "lastName": "Поленышев", "firstName": "Дмитрий", "status": "Бюджет" },
-    { "id": "15", "lastName": "Ракитская", "firstName": "Анастасия", "status": "Бюджет" },
-    { "id": "16", "lastName": "Раковская", "firstName": "Арина", "status": "Бюджет" },
-    { "id": "17", "lastName": "Редько", "firstName": "Владислав", "status": "Бюджет" },
-    { "id": "18", "lastName": "Семечко", "firstName": "Злата", "status": "Бюджет" },
-    { "id": "19", "lastName": "Сорокин", "firstName": "Никита", "status": "Платное" },
-    { "id": "20", "lastName": "Стахейко", "firstName": "Егор", "status": "Платное" },
-    { "id": "21", "lastName": "Тарасюк", "firstName": "Альбина", "status": "Бюджет" },
-    { "id": "22", "lastName": "Финютина", "firstName": "Владислава", "status": "Бюджет" },
-    { "id": "23", "lastName": "Хотяшова", "firstName": "Софья", "status": "Платное" },
-    { "id": "24", "lastName": "Чалей", "firstName": "Вадим", "status": "Платное" },
-    { "id": "25", "lastName": "Шемчак", "firstName": "Анна", "status": "Платное" },
-    { "id": "26", "lastName": "Шпакова", "firstName": "Ева", "status": "Платное" },
-    { "id": "27", "lastName": "Щигло", "firstName": "Илья", "status": "Платное" },
-    { "id": "28", "lastName": "Янголь", "firstName": "Иван", "status": "Бюджет" }
+    {
+      "id": "1",
+      "lastName": "Ключник",
+      "firstName": "Виктория",
+      "status": "Платное"
+    },
+    {
+      "id": "2",
+      "lastName": "Малибошко",
+      "firstName": "Александра",
+      "status": "Платное"
+    },
+    {
+      "id": "3",
+      "lastName": "Малиновская",
+      "firstName": "Мая",
+      "status": "Платное"
+    },
+    {
+      "id": "4",
+      "lastName": "Манкевич",
+      "firstName": "Мария",
+      "status": "Бюджет"
+    },
+    {
+      "id": "5",
+      "lastName": "Медведева",
+      "firstName": "Александра",
+      "status": "Платное"
+    },
+    {
+      "id": "6",
+      "lastName": "Михальченко",
+      "firstName": "Кирилл",
+      "status": "Бюджет"
+    },
+    {
+      "id": "7",
+      "lastName": "Мозоль",
+      "firstName": "Екатерина",
+      "status": "Платное"
+    },
+    {
+      "id": "8",
+      "lastName": "Мороз",
+      "firstName": "Анна",
+      "status": "Бюджет"
+    },
+    {
+      "id": "9",
+      "lastName": "Мулярёнок",
+      "firstName": "Юлия",
+      "status": "Бюджет"
+    },
+    {
+      "id": "10",
+      "lastName": "Огнянникова",
+      "firstName": "Ксения",
+      "status": "Платное"
+    },
+    {
+      "id": "11",
+      "lastName": "Петрович",
+      "firstName": "Арсений",
+      "status": "Бюджет"
+    },
+    {
+      "id": "12",
+      "lastName": "Петрович",
+      "firstName": "Захар",
+      "status": "Платное"
+    },
+    {
+      "id": "13",
+      "lastName": "Позднякова",
+      "firstName": "Валерия",
+      "status": "Платное"
+    },
+    {
+      "id": "14",
+      "lastName": "Поленышев",
+      "firstName": "Дмитрий",
+      "status": "Бюджет"
+    },
+    {
+      "id": "15",
+      "lastName": "Ракитская",
+      "firstName": "Анастасия",
+      "status": "Бюджет"
+    },
+    {
+      "id": "16",
+      "lastName": "Раковская",
+      "firstName": "Арина",
+      "status": "Бюджет"
+    },
+    {
+      "id": "17",
+      "lastName": "Редько",
+      "firstName": "Владислав",
+      "status": "Бюджет"
+    },
+    {
+      "id": "18",
+      "lastName": "Семечко",
+      "firstName": "Злата",
+      "status": "Бюджет"
+    },
+    {
+      "id": "19",
+      "lastName": "Сорокин",
+      "firstName": "Никита",
+      "status": "Платное"
+    },
+    {
+      "id": "20",
+      "lastName": "Стахейко",
+      "firstName": "Егор",
+      "status": "Платное"
+    },
+    {
+      "id": "21",
+      "lastName": "Тарасюк",
+      "firstName": "Альбина",
+      "status": "Бюджет"
+    },
+    {
+      "id": "22",
+      "lastName": "Финютина",
+      "firstName": "Владислава",
+      "status": "Бюджет"
+    },
+    {
+      "id": "23",
+      "lastName": "Хотяшова",
+      "firstName": "Софья",
+      "status": "Платное"
+    },
+    {
+      "id": "24",
+      "lastName": "Чалей",
+      "firstName": "Вадим",
+      "status": "Платное"
+    },
+    {
+      "id": "25",
+      "lastName": "Шемчак",
+      "firstName": "Анна",
+      "status": "Платное"
+    },
+    {
+      "id": "26",
+      "lastName": "Шпакова",
+      "firstName": "Ева",
+      "status": "Платное"
+    },
+    {
+      "id": "27",
+      "lastName": "Щигло",
+      "firstName": "Илья",
+      "status": "Платное"
+    },
+    {
+      "id": "28",
+      "lastName": "Янголь",
+      "firstName": "Иван",
+      "status": "Бюджет"
+    }
   ],
-  "absences": []
+  "absences": [
+    {
+      "id": "abs-1789834477695-0-229",
+      "studentId": "14",
+      "date": "2026-09-19",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Логистика",
+      "comment": ""
+    },
+    {
+      "id": "abs-1789834477695-1-95",
+      "studentId": "14",
+      "date": "2026-09-19",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Стратегический маркетинг",
+      "comment": ""
+    }
+  ]
 }
