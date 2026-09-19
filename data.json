@@ -173,6 +173,12 @@
       "lastName": "Михальченко",
       "firstName": "Кирилл",
       "status": "Бюджет"
+    },
+    {
+      "id": "st-1789848096573",
+      "lastName": "Хотяшова",
+      "firstName": "Софья",
+      "status": "Платное"
     }
   ],
   "absences": []
