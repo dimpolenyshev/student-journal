@@ -167,6 +167,12 @@
       "lastName": "Ключник",
       "firstName": "Виктория",
       "status": "Платное"
+    },
+    {
+      "id": "st-1789848068933",
+      "lastName": "Михальченко",
+      "firstName": "Кирилл",
+      "status": "Бюджет"
     }
   ],
   "absences": []
