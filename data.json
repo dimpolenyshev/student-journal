@@ -181,5 +181,15 @@
       "status": "Платное"
     }
   ],
-  "absences": []
+  "absences": [
+    {
+      "id": "abs-1789850073255-0-413",
+      "studentId": "st-1758300000001",
+      "date": "2026-09-05",
+      "totalHours": 4,
+      "isExcused": false,
+      "subject": "Стратегический маркетинг",
+      "comment": ""
+    }
+  ]
 }
