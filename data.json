@@ -197,6 +197,42 @@
       "isExcused": false,
       "subject": "Стратегический маркетинг",
       "comment": ""
+    },
+    {
+      "id": "abs-1789834534615-0-691",
+      "studentId": "3",
+      "date": "2026-09-15",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Интегрированные маркетинговые коммуникации",
+      "comment": ""
+    },
+    {
+      "id": "abs-1789834534615-1-398",
+      "studentId": "3",
+      "date": "2026-09-15",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Маркетинг инноваций",
+      "comment": ""
+    },
+    {
+      "id": "abs-1789834534615-2-795",
+      "studentId": "3",
+      "date": "2026-09-15",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Маркетинговые исследования и аналитика",
+      "comment": ""
+    },
+    {
+      "id": "abs-1789834534615-3-782",
+      "studentId": "3",
+      "date": "2026-09-15",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Стратегический маркетинг",
+      "comment": ""
     }
   ]
 }
