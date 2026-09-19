@@ -289,6 +289,15 @@
       "isExcused": false,
       "subject": "Маркетинг инноваций",
       "comment": ""
+    },
+    {
+      "id": "abs-1789850498025-0-89",
+      "studentId": "st-1758300000024",
+      "date": "2026-09-04",
+      "totalHours": 4,
+      "isExcused": false,
+      "subject": "Логистика",
+      "comment": ""
     }
   ]
 }
