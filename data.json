@@ -179,15 +179,5 @@
       "status": "Бюджет"
     }
   ],
-  "absences": [
-    {
-      "id": "abs-1789838653065-0-498",
-      "studentId": "1",
-      "date": "2026-09-19",
-      "totalHours": 2,
-      "isExcused": false,
-      "subject": "Функционально-стоимостный анализ",
-      "comment": ""
-    }
-  ]
+  "absences": []
 }
