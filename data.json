@@ -316,6 +316,33 @@
       "isExcused": false,
       "subject": "Стратегический маркетинг",
       "comment": ""
+    },
+    {
+      "id": "abs-1789850622506-0-695",
+      "studentId": "st-1789848096573",
+      "date": "2026-09-02",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Маркетинг инноваций",
+      "comment": "больничный"
+    },
+    {
+      "id": "abs-1789850622506-1-768",
+      "studentId": "st-1789848096573",
+      "date": "2026-09-02",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Маркетинговые исследования и аналитика",
+      "comment": "больничный"
+    },
+    {
+      "id": "abs-1789850622506-2-46",
+      "studentId": "st-1789848096573",
+      "date": "2026-09-02",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Эконометрика",
+      "comment": "больничный"
     }
   ]
 }
