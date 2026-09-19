@@ -298,6 +298,15 @@
       "isExcused": false,
       "subject": "Логистика",
       "comment": ""
+    },
+    {
+      "id": "abs-1789850519899-0-640",
+      "studentId": "st-1758300000025",
+      "date": "2026-09-04",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Логистика",
+      "comment": ""
     }
   ]
 }
