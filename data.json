@@ -31,12 +31,6 @@
       "status": "Бюджет"
     },
     {
-      "id": "st-1758300000004",
-      "lastName": "Медведева",
-      "firstName": "Александра",
-      "status": "Платное"
-    },
-    {
       "id": "st-1758300000005",
       "lastName": "Мозоль",
       "firstName": "Екатерина",
@@ -189,15 +183,6 @@
       "totalHours": 4,
       "isExcused": false,
       "subject": "Стратегический маркетинг",
-      "comment": ""
-    },
-    {
-      "id": "abs-1789850110559-0-772",
-      "studentId": "st-1758300000004",
-      "date": "2026-09-05",
-      "totalHours": 2,
-      "isExcused": false,
-      "subject": "Эконометрика",
       "comment": ""
     }
   ]
