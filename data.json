@@ -217,6 +217,15 @@
       "isExcused": false,
       "subject": "Стратегический маркетинг",
       "comment": ""
+    },
+    {
+      "id": "abs-1789850270520-0-132",
+      "studentId": "st-1758300000015",
+      "date": "2026-09-01",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинг инноваций",
+      "comment": ""
     }
   ]
 }
