@@ -190,6 +190,15 @@
       "isExcused": false,
       "subject": "Стратегический маркетинг",
       "comment": ""
+    },
+    {
+      "id": "abs-1789850194145-0-145",
+      "studentId": "st-1789850159847",
+      "date": "2026-09-02",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Эконометрика",
+      "comment": ""
     }
   ]
 }
