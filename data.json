@@ -226,6 +226,24 @@
       "isExcused": false,
       "subject": "Маркетинг инноваций",
       "comment": ""
+    },
+    {
+      "id": "abs-1789850298665-0-289",
+      "studentId": "st-1758300000015",
+      "date": "2026-09-02",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинг инноваций",
+      "comment": ""
+    },
+    {
+      "id": "abs-1789850298665-1-976",
+      "studentId": "st-1758300000015",
+      "date": "2026-09-02",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Эконометрика",
+      "comment": ""
     }
   ]
 }
