@@ -626,6 +626,15 @@
       "isExcused": false,
       "subject": "Стратегический маркетинг",
       "comment": "ПЗ"
+    },
+    {
+      "id": "abs-1789912446987-0-94",
+      "studentId": "st-1758300000017",
+      "date": "2026-09-19",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Стратегический маркетинг",
+      "comment": "вождение"
     }
   ]
 }
