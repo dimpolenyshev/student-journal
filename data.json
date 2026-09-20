@@ -563,6 +563,24 @@
       "isExcused": false,
       "subject": "Функционально-стоимостный анализ",
       "comment": ""
+    },
+    {
+      "id": "abs-1789912191588-0-593",
+      "studentId": "st-1789848096573",
+      "date": "2026-09-16",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинг инноваций",
+      "comment": ""
+    },
+    {
+      "id": "abs-1789912191588-1-87",
+      "studentId": "st-1789848096573",
+      "date": "2026-09-16",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
     }
   ]
 }
