@@ -635,6 +635,15 @@
       "isExcused": true,
       "subject": "Эконометрика",
       "comment": "вождение (закрыт)"
+    },
+    {
+      "id": "abs-1789941709850-0-653",
+      "studentId": "st-1758300000015",
+      "date": "2026-09-20",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Интегрированные маркетинговые коммуникации",
+      "comment": ""
     }
   ]
 }
