@@ -383,6 +383,15 @@
       "isExcused": true,
       "subject": "Стратегический маркетинг",
       "comment": "больничный"
+    },
+    {
+      "id": "abs-1789911516449-0-360",
+      "studentId": "st-1789848096573",
+      "date": "2026-09-07",
+      "totalHours": 4,
+      "isExcused": true,
+      "subject": "Эконометрика",
+      "comment": "больничный"
     }
   ]
 }
