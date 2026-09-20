@@ -473,6 +473,15 @@
       "isExcused": false,
       "subject": "Функционально-стоимостный анализ",
       "comment": ""
+    },
+    {
+      "id": "abs-1789911875581-0-867",
+      "studentId": "st-1758300000003",
+      "date": "2026-09-16",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
     }
   ]
 }
