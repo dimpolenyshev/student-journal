@@ -410,6 +410,15 @@
       "isExcused": true,
       "subject": "Маркетинг инноваций",
       "comment": "больничный"
+    },
+    {
+      "id": "abs-1789911632262-0-113",
+      "studentId": "st-1758300000024",
+      "date": "2026-09-10",
+      "totalHours": 4,
+      "isExcused": false,
+      "subject": "Интегрированные маркетинговые коммуникации",
+      "comment": ""
     }
   ]
 }
