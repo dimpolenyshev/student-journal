@@ -545,6 +545,15 @@
       "isExcused": false,
       "subject": "Маркетинг инноваций",
       "comment": ""
+    },
+    {
+      "id": "abs-1789912085566-0-835",
+      "studentId": "st-1758300000016",
+      "date": "2026-09-16",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
     }
   ]
 }
