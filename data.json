@@ -599,6 +599,15 @@
       "isExcused": false,
       "subject": "Функционально-стоимостный анализ",
       "comment": ""
+    },
+    {
+      "id": "abs-1789912345420-0-354",
+      "studentId": "st-1758300000012",
+      "date": "2026-09-18",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Логистика",
+      "comment": "справка"
     }
   ]
 }
