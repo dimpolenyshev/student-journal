@@ -365,6 +365,15 @@
       "isExcused": true,
       "subject": "Маркетинг услуг",
       "comment": "больничный"
+    },
+    {
+      "id": "abs-1789911416222-0-73",
+      "studentId": "st-1789848096573",
+      "date": "2026-09-04",
+      "totalHours": 4,
+      "isExcused": true,
+      "subject": "Логистика",
+      "comment": "больничный"
     }
   ]
 }
