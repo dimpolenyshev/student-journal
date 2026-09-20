@@ -428,6 +428,15 @@
       "isExcused": false,
       "subject": "Интегрированные маркетинговые коммуникации",
       "comment": ""
+    },
+    {
+      "id": "abs-1789911728142-0-532",
+      "studentId": "st-1758300000018",
+      "date": "2026-09-14",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Эконометрика",
+      "comment": "ПЗ"
     }
   ]
 }
