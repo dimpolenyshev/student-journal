@@ -177,6 +177,12 @@
       "lastName": "Медведева",
       "firstName": "Александра",
       "status": "Платное"
+    },
+    {
+      "id": "st-1789913607045",
+      "lastName": "Стахейко",
+      "firstName": "Егор",
+      "status": "Платное"
     }
   ],
   "absences": [
