@@ -392,6 +392,15 @@
       "isExcused": true,
       "subject": "Эконометрика",
       "comment": "больничный"
+    },
+    {
+      "id": "abs-1789911560287-0-929",
+      "studentId": "st-1789848096573",
+      "date": "2026-09-08",
+      "totalHours": 4,
+      "isExcused": true,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": "больничный"
     }
   ]
 }
