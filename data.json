@@ -437,6 +437,15 @@
       "isExcused": false,
       "subject": "Эконометрика",
       "comment": "ПЗ"
+    },
+    {
+      "id": "abs-1789911778149-0-94",
+      "studentId": "st-1789848096573",
+      "date": "2026-09-14",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Эконометрика",
+      "comment": ""
     }
   ]
 }
