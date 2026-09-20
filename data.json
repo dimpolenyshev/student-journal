@@ -617,6 +617,15 @@
       "isExcused": false,
       "subject": "Логистика",
       "comment": ""
+    },
+    {
+      "id": "abs-1789912416051-0-253",
+      "studentId": "st-1758300000015",
+      "date": "2026-09-18",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Стратегический маркетинг",
+      "comment": "ПЗ"
     }
   ]
 }
