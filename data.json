@@ -626,6 +626,15 @@
       "isExcused": true,
       "subject": "Стратегический маркетинг",
       "comment": "вождение"
+    },
+    {
+      "id": "abs-1789913680117-0-540",
+      "studentId": "st-1789913607045",
+      "date": "2026-09-14",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Эконометрика",
+      "comment": "вождение (закрыт)"
     }
   ]
 }
