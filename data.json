@@ -374,6 +374,15 @@
       "isExcused": true,
       "subject": "Логистика",
       "comment": "больничный"
+    },
+    {
+      "id": "abs-1789911465351-0-371",
+      "studentId": "st-1789848096573",
+      "date": "2026-09-05",
+      "totalHours": 4,
+      "isExcused": true,
+      "subject": "Стратегический маркетинг",
+      "comment": "больничный"
     }
   ]
 }
