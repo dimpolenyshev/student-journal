@@ -125,7 +125,8 @@
       "lastName": "Сорокин",
       "firstName": "Никита",
       "status": "Платное",
-      "isAdmin": true
+      "isAdmin": true,
+      "telegramUsername": "sindeinf"
     },
     {
       "id": "st-1758300000019",
