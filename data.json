@@ -674,12 +674,5 @@
     }
   ],
   "teachers": [],
-  "announcements": [
-    {
-      "id": "ann-1790024463661",
-      "text": "Янголь Иван ебаный балбес",
-      "date": "2026-09-21",
-      "targetType": "ALL"
-    }
-  ]
+  "announcements": []
 }
