@@ -674,5 +674,13 @@
     }
   ],
   "teachers": [],
-  "announcements": []
+  "announcements": [
+    {
+      "id": "ann-1790024596071",
+      "text": "Иван Янголь реально ебаный балбес",
+      "date": "2026-09-21",
+      "targetType": "STUDENT",
+      "targetStudentId": "st-1758300000017"
+    }
+  ]
 }
