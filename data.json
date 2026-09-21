@@ -644,6 +644,18 @@
       "isExcused": false,
       "subject": "Эконометрика",
       "comment": ""
+    },
+    {
+      "id": "abs-1790017340625-0-912",
+      "studentId": "st-1758300000025",
+      "date": "2026-09-21",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Интегрированные маркетинговые коммуникации",
+      "comment": "",
+      "docType": "освобождение",
+      "docSubmitted": true,
+      "docDeadline": "2026-09-24"
     }
   ]
 }
