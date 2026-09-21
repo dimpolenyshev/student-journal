@@ -635,6 +635,15 @@
       "isExcused": true,
       "subject": "Эконометрика",
       "comment": "вождение (закрыт)"
+    },
+    {
+      "id": "abs-1789987553463-0-540",
+      "studentId": "st-1789913607045",
+      "date": "2026-09-21",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Эконометрика",
+      "comment": ""
     }
   ]
 }
