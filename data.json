@@ -779,6 +779,13 @@
       "date": "2026-09-22",
       "targetType": "STUDENT",
       "targetStudentId": "st-1758300000012"
+    },
+    {
+      "id": "ann-1790055785394",
+      "text": "Кейарт лучший репер",
+      "date": "2026-09-22",
+      "targetType": "STUDENT",
+      "targetStudentId": "st-1790055432260"
     }
   ]
 }
