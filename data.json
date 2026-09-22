@@ -210,6 +210,14 @@
       "firstName": "Егор",
       "status": "Платное",
       "telegramUsername": "sk1rls"
+    },
+    {
+      "id": "st-1790055432260",
+      "lastName": "А. Тест студент Санчез",
+      "firstName": "Йоу",
+      "status": "Бюджет",
+      "role": "Сосед 1108в",
+      "telegramUsername": "Ea_iie"
     }
   ],
   "absences": [
