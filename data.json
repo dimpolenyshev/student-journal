@@ -731,5 +731,12 @@
       "lab": ""
     }
   ],
-  "announcements": []
+  "announcements": [
+    {
+      "id": "ann-1790055066886",
+      "text": "С Никитой ждем обратную связь от вас 😀",
+      "date": "2026-09-22",
+      "targetType": "ALL"
+    }
+  ]
 }
