@@ -673,15 +673,6 @@
       "comment": ""
     },
     {
-      "id": "abs-1790101591417-g5-810",
-      "studentId": "st-1758300000010",
-      "date": "2026-09-22",
-      "totalHours": 2,
-      "isExcused": false,
-      "subject": "Функционально-стоимостный анализ",
-      "comment": ""
-    },
-    {
       "id": "abs-1790101591417-g6-349",
       "studentId": "st-1758300000011",
       "date": "2026-09-22",
@@ -837,15 +828,6 @@
     {
       "id": "abs-1790101644368-g8-216",
       "studentId": "st-1758300000011",
-      "date": "2026-09-22",
-      "totalHours": 2,
-      "isExcused": false,
-      "subject": "Функционально-стоимостный анализ",
-      "comment": ""
-    },
-    {
-      "id": "abs-1790101644368-g9-282",
-      "studentId": "st-1758300000010",
       "date": "2026-09-22",
       "totalHours": 2,
       "isExcused": false,
