@@ -679,6 +679,33 @@
       "isExcused": false,
       "subject": "Эконометрика",
       "comment": ""
+    },
+    {
+      "id": "abs-1790055568491-0-992",
+      "studentId": "st-1790055432260",
+      "date": "2026-09-22",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Интегрированные маркетинговые коммуникации",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790055568491-1-127",
+      "studentId": "st-1790055432260",
+      "date": "2026-09-22",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинговые исследования и аналитика",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790055568491-2-159",
+      "studentId": "st-1790055432260",
+      "date": "2026-09-22",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Физическая культура",
+      "comment": ""
     }
   ],
   "teachers": [
