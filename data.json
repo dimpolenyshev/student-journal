@@ -917,6 +917,15 @@
       "certType": "Больничный",
       "certDueDate": "2026-10-04",
       "certSubmitted": false
+    },
+    {
+      "id": "abs-1790196966202-0-438",
+      "studentId": "st-1758300000017",
+      "date": "2026-09-23",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Интегрированные маркетинговые коммуникации",
+      "comment": ""
     }
   ],
   "teachers": [
@@ -999,5 +1008,5 @@
       "targetType": "ALL"
     }
   ],
-  "lastUpdated": "2026-09-23T20:55:54.924Z"
+  "lastUpdated": "2026-09-23T20:56:06.475Z"
 }
