@@ -914,15 +914,6 @@
       "isExcused": false,
       "subject": "Интегрированные маркетинговые коммуникации",
       "comment": ""
-    },
-    {
-      "id": "abs-1790154567738-g12-808",
-      "studentId": "st-1758300000025",
-      "date": "2026-09-23",
-      "totalHours": 2,
-      "isExcused": false,
-      "subject": "Интегрированные маркетинговые коммуникации",
-      "comment": ""
     }
   ],
   "teachers": [
@@ -1004,5 +995,6 @@
       "date": "2026-09-23",
       "targetType": "ALL"
     }
-  ]
+  ],
+  "lastUpdated": "2026-09-23T19:21:07.379Z"
 }
