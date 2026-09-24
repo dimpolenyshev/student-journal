@@ -965,6 +965,30 @@
       "certType": "Больничный",
       "certDueDate": "2026-10-04",
       "certSubmitted": false
+    },
+    {
+      "id": "abs-1790253026446-0-86",
+      "studentId": "st-1758300000025",
+      "date": "2026-09-24",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Маркетинг услуг",
+      "comment": "",
+      "certType": "Больничный",
+      "certDueDate": "2026-10-04",
+      "certSubmitted": false
+    },
+    {
+      "id": "abs-1790253026446-1-854",
+      "studentId": "st-1758300000025",
+      "date": "2026-09-24",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Эконометрика",
+      "comment": "",
+      "certType": "Больничный",
+      "certDueDate": "2026-10-04",
+      "certSubmitted": false
     }
   ],
   "teachers": [
@@ -1047,5 +1071,5 @@
       "targetType": "ALL"
     }
   ],
-  "lastUpdated": "2026-09-24T09:49:41.730Z"
+  "lastUpdated": "2026-09-24T12:30:27.394Z"
 }
