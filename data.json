@@ -926,6 +926,33 @@
       "isExcused": false,
       "subject": "Интегрированные маркетинговые коммуникации",
       "comment": ""
+    },
+    {
+      "id": "abs-1790243358768-g0-576",
+      "studentId": "st-1758300000012",
+      "date": "2026-09-24",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Эконометрика",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790243358768-g1-310",
+      "studentId": "st-1758300000015",
+      "date": "2026-09-24",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Эконометрика",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790243358768-g2-758",
+      "studentId": "st-1789848096573",
+      "date": "2026-09-24",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Эконометрика",
+      "comment": ""
     }
   ],
   "teachers": [
@@ -1008,5 +1035,5 @@
       "targetType": "ALL"
     }
   ],
-  "lastUpdated": "2026-09-23T20:56:06.475Z"
+  "lastUpdated": "2026-09-24T09:49:20.413Z"
 }
