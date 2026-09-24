@@ -953,6 +953,18 @@
       "isExcused": false,
       "subject": "Эконометрика",
       "comment": ""
+    },
+    {
+      "id": "abs-1790243381314-0-363",
+      "studentId": "st-1758300000025",
+      "date": "2026-09-24",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Эконометрика",
+      "comment": "",
+      "certType": "Больничный",
+      "certDueDate": "2026-10-04",
+      "certSubmitted": false
     }
   ],
   "teachers": [
@@ -1035,5 +1047,5 @@
       "targetType": "ALL"
     }
   ],
-  "lastUpdated": "2026-09-24T09:49:20.413Z"
+  "lastUpdated": "2026-09-24T09:49:41.730Z"
 }
