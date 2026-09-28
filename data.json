@@ -1145,6 +1145,42 @@
       "certType": "Больничный",
       "certDueDate": "2026-10-04",
       "certSubmitted": false
+    },
+    {
+      "id": "abs-1790584652728-g0-462",
+      "studentId": "st-1758300000006",
+      "date": "2026-09-28",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Стратегический маркетинг",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790584652728-g1-130",
+      "studentId": "st-1758300000009",
+      "date": "2026-09-28",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Стратегический маркетинг",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790584652728-g2-806",
+      "studentId": "st-1758300000014",
+      "date": "2026-09-28",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Стратегический маркетинг",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790584652728-g3-360",
+      "studentId": "st-1758300000021",
+      "date": "2026-09-28",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Стратегический маркетинг",
+      "comment": ""
     }
   ],
   "teachers": [
@@ -1206,5 +1242,5 @@
     }
   ],
   "announcements": [],
-  "lastUpdated": "2026-09-28T07:51:54.759Z"
+  "lastUpdated": "2026-09-28T08:37:33.842Z"
 }
