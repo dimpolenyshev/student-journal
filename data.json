@@ -1205,6 +1205,18 @@
       "certType": "Заявление",
       "certDueDate": "2026-10-04",
       "certSubmitted": false
+    },
+    {
+      "id": "abs-1790625965703-0-757",
+      "studentId": "st-1789913607045",
+      "date": "2026-09-28",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Интегрированные маркетинговые коммуникации",
+      "comment": "пз",
+      "certType": "Заявление",
+      "certDueDate": "2026-10-04",
+      "certSubmitted": true
     }
   ],
   "teachers": [
@@ -1266,5 +1278,5 @@
     }
   ],
   "announcements": [],
-  "lastUpdated": "2026-09-28T08:45:19.248Z"
+  "lastUpdated": "2026-09-28T20:06:06.856Z"
 }
