@@ -1328,6 +1328,18 @@
       "isExcused": false,
       "subject": "Функционально-стоимостный анализ",
       "comment": ""
+    },
+    {
+      "id": "abs-1790705760073-0-429",
+      "studentId": "st-1758300000025",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": "",
+      "certType": "Больничный",
+      "certDueDate": "2026-10-04",
+      "certSubmitted": false
     }
   ],
   "teachers": [
@@ -1389,5 +1401,5 @@
     }
   ],
   "announcements": [],
-  "lastUpdated": "2026-09-29T18:15:22.022Z"
+  "lastUpdated": "2026-09-29T18:16:00.760Z"
 }
