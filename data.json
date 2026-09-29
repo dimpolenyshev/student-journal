@@ -1262,6 +1262,60 @@
       "isExcused": false,
       "subject": "Эконометрика",
       "comment": ""
+    },
+    {
+      "id": "abs-1790702448555-g0-724",
+      "studentId": "st-1789848068933",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790702448555-g1-656",
+      "studentId": "st-1758300000007",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790702448555-g2-592",
+      "studentId": "st-1758300000010",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790702448555-g3-776",
+      "studentId": "st-1758300000013",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790702448555-g4-232",
+      "studentId": "st-1758300000014",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790702448555-g5-398",
+      "studentId": "st-1789913607045",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
     }
   ],
   "teachers": [
@@ -1323,5 +1377,5 @@
     }
   ],
   "announcements": [],
-  "lastUpdated": "2026-09-28T20:07:59.710Z"
+  "lastUpdated": "2026-09-29T17:20:49.824Z"
 }
