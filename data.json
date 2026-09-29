@@ -1274,6 +1274,60 @@
       "certType": "Больничный",
       "certDueDate": "2026-10-04",
       "certSubmitted": false
+    },
+    {
+      "id": "abs-1790705721249-g0-994",
+      "studentId": "st-1789848068933",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790705721249-g1-707",
+      "studentId": "st-1758300000007",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790705721249-g2-416",
+      "studentId": "st-1758300000010",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790705721249-g3-18",
+      "studentId": "st-1758300000013",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790705721249-g4-579",
+      "studentId": "st-1758300000014",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790705721249-g5-619",
+      "studentId": "st-1789913607045",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
     }
   ],
   "teachers": [
@@ -1335,5 +1389,5 @@
     }
   ],
   "announcements": [],
-  "lastUpdated": "2026-09-29T17:21:14.469Z"
+  "lastUpdated": "2026-09-29T18:15:22.022Z"
 }
