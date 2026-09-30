@@ -1352,6 +1352,60 @@
       "certType": "Больничный",
       "certDueDate": "2026-10-04",
       "certSubmitted": false
+    },
+    {
+      "id": "abs-1790759710900-g0-16",
+      "studentId": "st-1789848068933",
+      "date": "2026-09-30",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинг инноваций",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790759710900-g1-848",
+      "studentId": "st-1758300000005",
+      "date": "2026-09-30",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинг инноваций",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790759710900-g2-429",
+      "studentId": "st-1758300000009",
+      "date": "2026-09-30",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинг инноваций",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790759710900-g3-765",
+      "studentId": "st-1758300000016",
+      "date": "2026-09-30",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинг инноваций",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790759710900-g4-73",
+      "studentId": "st-1758300000022",
+      "date": "2026-09-30",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинг инноваций",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790759710900-g5-798",
+      "studentId": "st-1758300000023",
+      "date": "2026-09-30",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинг инноваций",
+      "comment": ""
     }
   ],
   "teachers": [
@@ -1413,5 +1467,5 @@
     }
   ],
   "announcements": [],
-  "lastUpdated": "2026-09-30T09:13:34.911Z"
+  "lastUpdated": "2026-09-30T09:15:11.755Z"
 }
