@@ -1340,6 +1340,18 @@
       "certType": "Больничный",
       "certDueDate": "2026-10-04",
       "certSubmitted": false
+    },
+    {
+      "id": "abs-1790759586784-0-602",
+      "studentId": "st-1758300000025",
+      "date": "2026-09-30",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Маркетинг инноваций",
+      "comment": "",
+      "certType": "Больничный",
+      "certDueDate": "2026-10-04",
+      "certSubmitted": false
     }
   ],
   "teachers": [
@@ -1401,5 +1413,5 @@
     }
   ],
   "announcements": [],
-  "lastUpdated": "2026-09-29T18:16:00.760Z"
+  "lastUpdated": "2026-09-30T09:13:34.911Z"
 }
