@@ -1205,6 +1205,207 @@
       "certType": "Заявление",
       "certDueDate": "2026-10-04",
       "certSubmitted": false
+    },
+    {
+      "id": "abs-1790625965703-0-757",
+      "studentId": "st-1789913607045",
+      "date": "2026-09-28",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Интегрированные маркетинговые коммуникации",
+      "comment": "пз",
+      "certType": "Заявление",
+      "certDueDate": "2026-10-04",
+      "certSubmitted": true
+    },
+    {
+      "id": "abs-1790626014039-0-291",
+      "studentId": "st-1758300000025",
+      "date": "2026-09-28",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Интегрированные маркетинговые коммуникации",
+      "comment": "",
+      "certType": "Больничный",
+      "certDueDate": "2026-10-04",
+      "certSubmitted": false
+    },
+    {
+      "id": "abs-1790626014039-1-878",
+      "studentId": "st-1758300000025",
+      "date": "2026-09-28",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Стратегический маркетинг",
+      "comment": "",
+      "certType": "Больничный",
+      "certDueDate": "2026-10-04",
+      "certSubmitted": false
+    },
+    {
+      "id": "abs-1790626014039-2-848",
+      "studentId": "st-1758300000025",
+      "date": "2026-09-28",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Эконометрика",
+      "comment": "",
+      "certType": "Больничный",
+      "certDueDate": "2026-10-04",
+      "certSubmitted": false
+    },
+    {
+      "id": "abs-1790626078738-0-387",
+      "studentId": "st-1758300000021",
+      "date": "2026-09-28",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Эконометрика",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790702474086-0-505",
+      "studentId": "st-1758300000025",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": "",
+      "certType": "Больничный",
+      "certDueDate": "2026-10-04",
+      "certSubmitted": false
+    },
+    {
+      "id": "abs-1790705721249-g0-994",
+      "studentId": "st-1789848068933",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790705721249-g1-707",
+      "studentId": "st-1758300000007",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790705721249-g2-416",
+      "studentId": "st-1758300000010",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790705721249-g3-18",
+      "studentId": "st-1758300000013",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790705721249-g4-579",
+      "studentId": "st-1758300000014",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790705721249-g5-619",
+      "studentId": "st-1789913607045",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790705760073-0-429",
+      "studentId": "st-1758300000025",
+      "date": "2026-09-29",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Функционально-стоимостный анализ",
+      "comment": "",
+      "certType": "Больничный",
+      "certDueDate": "2026-10-04",
+      "certSubmitted": false
+    },
+    {
+      "id": "abs-1790759586784-0-602",
+      "studentId": "st-1758300000025",
+      "date": "2026-09-30",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Маркетинг инноваций",
+      "comment": "",
+      "certType": "Больничный",
+      "certDueDate": "2026-10-04",
+      "certSubmitted": false
+    },
+    {
+      "id": "abs-1790759710900-g0-16",
+      "studentId": "st-1789848068933",
+      "date": "2026-09-30",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинг инноваций",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790759710900-g1-848",
+      "studentId": "st-1758300000005",
+      "date": "2026-09-30",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинг инноваций",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790759710900-g2-429",
+      "studentId": "st-1758300000009",
+      "date": "2026-09-30",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинг инноваций",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790759710900-g3-765",
+      "studentId": "st-1758300000016",
+      "date": "2026-09-30",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинг инноваций",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790759710900-g4-73",
+      "studentId": "st-1758300000022",
+      "date": "2026-09-30",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинг инноваций",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790759710900-g5-798",
+      "studentId": "st-1758300000023",
+      "date": "2026-09-30",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинг инноваций",
+      "comment": ""
     }
   ],
   "teachers": [
@@ -1266,6 +1467,6 @@
     }
   ],
   "announcements": [],
-  "lastUpdated": "2026-09-28T08:45:19.248Z",
+  "lastUpdated": "2026-09-30T09:15:11.755Z",
   "homework": []
 }
