@@ -685,7 +685,9 @@
       "totalHours": 2,
       "isExcused": true,
       "subject": "Эконометрика",
-      "comment": "вождение (закрыт)"
+      "comment": "вождение (закрыт)",
+      "certType": "Справка",
+      "certSubmitted": true
     },
     {
       "id": "abs-1789987553463-0-540",
@@ -1476,6 +1478,6 @@
     }
   ],
   "announcements": [],
-  "lastUpdated": "2026-10-01T23:21:46.281Z",
+  "lastUpdated": "2026-10-01T23:22:07.540Z",
   "homework": []
 }
