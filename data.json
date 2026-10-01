@@ -1406,6 +1406,15 @@
       "isExcused": false,
       "subject": "Маркетинг инноваций",
       "comment": ""
+    },
+    {
+      "id": "abs-1790896893145-0-36",
+      "studentId": "st-1758300000011",
+      "date": "2026-10-01",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Маркетинг услуг",
+      "comment": ""
     }
   ],
   "teachers": [
@@ -1467,6 +1476,6 @@
     }
   ],
   "announcements": [],
-  "lastUpdated": "2026-09-30T09:15:11.755Z",
+  "lastUpdated": "2026-10-01T23:21:34.975Z",
   "homework": []
 }
