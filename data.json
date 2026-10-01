@@ -1204,7 +1204,7 @@
       "comment": "",
       "certType": "Заявление",
       "certDueDate": "2026-10-04",
-      "certSubmitted": false
+      "certSubmitted": true
     },
     {
       "id": "abs-1790625965703-0-757",
@@ -1476,6 +1476,6 @@
     }
   ],
   "announcements": [],
-  "lastUpdated": "2026-10-01T23:21:34.975Z",
+  "lastUpdated": "2026-10-01T23:21:46.281Z",
   "homework": []
 }
