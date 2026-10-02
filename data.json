@@ -1426,6 +1426,24 @@
       "isExcused": false,
       "subject": "Маркетинг услуг",
       "comment": ""
+    },
+    {
+      "id": "abs-1790953824836-g0-758",
+      "studentId": "st-1758300000001",
+      "date": "2026-10-02",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Логистика",
+      "comment": ""
+    },
+    {
+      "id": "abs-1790953824836-g1-989",
+      "studentId": "st-1789848096573",
+      "date": "2026-10-02",
+      "totalHours": 2,
+      "isExcused": false,
+      "subject": "Логистика",
+      "comment": ""
     }
   ],
   "teachers": [
@@ -1487,7 +1505,7 @@
     }
   ],
   "announcements": [],
-  "lastUpdated": "2026-10-02T13:23:18.696Z",
+  "lastUpdated": "2026-10-02T15:10:25.678Z",
   "homework": [
     {
       "id": "hw-1790897160111",
