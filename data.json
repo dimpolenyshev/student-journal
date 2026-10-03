@@ -1444,6 +1444,18 @@
       "isExcused": false,
       "subject": "Логистика",
       "comment": ""
+    },
+    {
+      "id": "abs-1791052161907-0-952",
+      "studentId": "st-1758300000016",
+      "date": "2026-10-03",
+      "totalHours": 2,
+      "isExcused": true,
+      "subject": "Стратегический маркетинг",
+      "comment": "",
+      "certType": "Освобождение",
+      "certDueDate": "2026-10-11",
+      "certSubmitted": false
     }
   ],
   "teachers": [
@@ -1505,7 +1517,7 @@
     }
   ],
   "announcements": [],
-  "lastUpdated": "2026-10-03T07:25:05.738Z",
+  "lastUpdated": "2026-10-03T18:29:22.769Z",
   "homework": [
     {
       "id": "hw-1790897160111",
